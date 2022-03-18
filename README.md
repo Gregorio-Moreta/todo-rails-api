@@ -1,5 +1,9 @@
 # README
 
+#   Following along a rails 2.3.1 tutorial ruby version 5
+
+##  https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-one
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
